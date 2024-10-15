@@ -1,4 +1,3 @@
-<img src="https://images.pexels.com/photos/11393307/pexels-photo-11393307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Örnek Görsel" style="max-width: 150px; max-height: 250px; width: 100; height: auto;">
 
 
 <h2 align="left">Hi 👋! My name is Ali and I'm a backend developer from Türkiye</h2>
